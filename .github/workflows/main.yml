@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: abIIIcd/hello-world-javascript-action@v1.1
+        uses: ablllcd/hello-world-javascript-action@v1.1
         with:
           who-to-greet: cyw
 
